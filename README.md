@@ -1,6 +1,8 @@
 # Radio House
 
 Radio player app that allows the user to play different radio stations from the world, with a search feature, favorites and filters.
+This project uses the API from [https://de1.api.radio-browser.info/#General](https://de1.api.radio-browser.info/#General)
+
 ---
 
 ## Getting Started 🚀

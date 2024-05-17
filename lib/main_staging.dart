@@ -6,7 +6,7 @@ void main() {
     flavor: Flavor.staging,
     name: 'Staging',
     values: FlavorValues(
-      baseUrl: 'https://staging.com',
+      baseUrl: 'https://at1.api.radio-browser.info',
     ),
   );
   runRadioApp();

@@ -6,7 +6,7 @@ void main() {
     flavor: Flavor.production,
     name: 'Production',
     values: FlavorValues(
-      baseUrl: 'https://production.com',
+      baseUrl: 'https://at1.api.radio-browser.info',
     ),
   );
   runRadioApp();

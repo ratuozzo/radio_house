@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - radio_player (0.0.1):
+    - Flutter
+  - rive_common (0.0.1):
+    - Flutter
+  - sqflite (0.0.3):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - radio_player (from `.symlinks/plugins/radio_player/ios`)
+  - rive_common (from `.symlinks/plugins/rive_common/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/darwin`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  radio_player:
+    :path: ".symlinks/plugins/radio_player/ios"
+  rive_common:
+    :path: ".symlinks/plugins/rive_common/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/darwin"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  radio_player: f23691d16aafc0c21dab0b3006ac29f05a22398f
+  rive_common: cbbac3192af00d7341f19dae2f26298e9e37d99e
+  sqflite: 673a0e54cc04b7d6dba8d24fb8095b31c3a99eec
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2

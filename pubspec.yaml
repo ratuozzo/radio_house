@@ -23,7 +23,7 @@ dependencies:
   loggy: ^2.0.3
   path: ^1.9.0
   radio_player: ^1.5.1
-  rive: ^0.13.4
+  rive: ^0.13.7
   sqflite: ^2.3.3+1
 
 dev_dependencies:
